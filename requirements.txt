@@ -1,0 +1,24 @@
+﻿# Distributed Messaging System - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# No external dependencies - uses only Python standard library
+# Python 3.7+ required
+
+# The following modules are used (all built-in):
+# - socket (networking)
+# - threading (concurrency)
+# - asyncio (async operations)
+# - json (data serialization)
+# - logging (application logging)
+# - datetime (time handling)
+# - time (time utilities)
+# - unittest (testing framework)
+# - argparse (CLI arguments)
+# - sys, os, signal (system utilities)
+
+# Optional: For testing
+pytest==7.4.0  # If you want to use pytest instead of unittest
+
+# Optional: For code quality
+flake8==6.1.0  # Code linting
+black==23.7.0  # Code formatting

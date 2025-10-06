@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/*
+!logs/.gitkeep
+!logs/0/.gitkeep
+!logs/1/.gitkeep
+!logs/2/.gitkeep
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Documentation artifacts (optional - keep the source .md files)
+*.pdf
+*.html
