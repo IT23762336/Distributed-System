@@ -1,6 +1,6 @@
 """
 Message Storage Component - Manual Replication
-Author: DINUJAYA K V T (IT23398184)
+Author: W D S S JAYATHILAKA IT23582460
 
 This module provides distributed message storage with replication.
 Previously used raftos.ReplicatedDict, now uses manual replication

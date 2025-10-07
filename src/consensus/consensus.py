@@ -1,6 +1,6 @@
 """
 Consensus Component - Manual Raft Implementation
-Author: ABEYRATHNA J G D A (IT23424432)
+Author: HITHUSH M IT23632264
 
 This module provides a consensus interface using a manually implemented
 Raft consensus algorithm. It replaces the third-party raftos library with

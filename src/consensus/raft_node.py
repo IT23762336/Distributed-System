@@ -1,6 +1,6 @@
 """
 Manual Raft Consensus Implementation
-Author: ABEYRATHNA J G D A (IT23424432)
+Author: HITHUSH M IT23632264
 
 This module implements the Raft consensus algorithm from scratch.
 Based on the Raft paper: "In Search of an Understandable Consensus Algorithm"

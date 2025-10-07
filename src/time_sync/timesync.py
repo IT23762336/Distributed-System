@@ -9,6 +9,7 @@ class TimeSync:
     """
     Time synchronization using NTP protocol
     Ensures consistent timestamps across distributed systems
+    author: Sugeerthan S IT23632196
     """
     def __init__(self, ntp_servers=None):                 ## intitalization of  NTP cliaint
         """

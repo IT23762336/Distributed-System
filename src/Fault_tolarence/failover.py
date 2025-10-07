@@ -1,6 +1,6 @@
 """
 Failover Component - Automatic Node Failure Detection and Recovery
-Author: D B Y BINUWARA (IT23184558)
+Author: Aththanayake-IT23762336
 
 This module handles automatic failover between cluster nodes.
 It monitors node health via TCP health checks and tracks the current
